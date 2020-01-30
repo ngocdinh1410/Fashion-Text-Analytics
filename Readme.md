@@ -25,4 +25,4 @@ The file will go through the review texts and plot the top 30 words:
 * Tri-grams approach
 
 ## Written report:
-For a written report of the findings, please refer to
+For a written report of the findings, please refer to [Homework 1 Dinh Bao Ngoc.docx](https://github.com/ngocdinh1410/Fashion-Text-Analytics/blob/master/Homework%201%20Dinh%20Bao%20Ngoc.docx)
